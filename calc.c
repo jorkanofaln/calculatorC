@@ -43,10 +43,7 @@ double powerOf(double a, double b){
 int main(){
     /*Define values*/
     double a,b;
-    double sum;
-    double difference;
-    double product;
-    double quotient;
+    double sum,difference,product,quotient;
     /*Assign values*/
     printf("Insert an integer:");
     scanf("%lf",&a);
